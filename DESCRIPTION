@@ -1,0 +1,9 @@
+Package: helloManta
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2014-01-22
+Author: Ty Henkaline
+Maintainer: Ty Henkaline <tchenkaline@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: GPL-2
