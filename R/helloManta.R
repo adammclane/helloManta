@@ -1,3 +1,3 @@
 helloManta <- function() {
-  print("Hello Manta.")
+  print("Hello Manta. Adam")
 }
